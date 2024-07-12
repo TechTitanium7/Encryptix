@@ -1,0 +1,51 @@
+body {
+	background-color: #e9e7db;	
+	margin: 20%;
+	margin-top: 0%;
+	margin-bottom: 0%;
+
+}
+
+/* Styling the Title and giving
+shadow to the title */
+#title {
+	color: rgb(5, 4, 53);
+	text-align: center;
+	text-shadow: 5px 5px 10px rgb(250, 247, 247);
+	font-size: 7vh;
+}
+
+/* Setting width and display
+type of image */
+img {
+	display: inline-block;
+	width: 100%;
+}
+
+/* Setting font color and font
+size of the image-caption */
+#caption {
+	font-size: 20px;
+	font-family: Gill Sans;
+	color: rgb(18, 5, 78);
+}
+
+/* Styling the content of the page like-
+padding, font-size, font color etc.*/
+div#tribute-data {
+	background-color: rgba(103, 104, 75, 0.25);
+	box-shadow: 15px 15px 15px #333232;
+	font-family: Georgia;
+	padding: 25px 25px;
+	margin: 11px;
+	margin-top: 50px;
+}
+
+/* Styling the title of the content */
+h1.title-Sachin {
+	font-size: 35px;
+	color: rgb(253, 253, 253);
+	text-align: center;
+	text-shadow: 5px 5px 10px black;
+}
+
